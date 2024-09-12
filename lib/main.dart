@@ -3,6 +3,7 @@ import 'package:flutter_clean_architecture_course/core/app_theme.dart';
 
 void main() => runApp(const MyApp());
 
+
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
