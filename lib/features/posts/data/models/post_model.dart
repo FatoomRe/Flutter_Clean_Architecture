@@ -25,3 +25,5 @@ class PostModel extends Post {
     };
   }
 }
+
+
